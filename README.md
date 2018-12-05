@@ -1,6 +1,4 @@
-# SwingInspire
-A Java Swing Application made from scratch, please have a look, if you like clone and tweak to suit your needs.
-
+# Employee Management System
 # Screenshots
 
-![alt text](https://github.com/k33ptoo/SwingInspire/blob/master/images/sc.png)
+![alt text](https://github.com/t0nxx/Final_Project/blob/master/screen.png)
